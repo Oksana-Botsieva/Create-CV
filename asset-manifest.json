@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Create-CV/static/css/main.3080cdfb.css",
+    "main.js": "/Create-CV/static/js/main.889efc34.js",
+    "index.html": "/Create-CV/index.html",
+    "main.3080cdfb.css.map": "/Create-CV/static/css/main.3080cdfb.css.map",
+    "main.889efc34.js.map": "/Create-CV/static/js/main.889efc34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3080cdfb.css",
+    "static/js/main.889efc34.js"
+  ]
+}
